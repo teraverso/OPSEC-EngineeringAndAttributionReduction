@@ -1,0 +1,1 @@
+Palestra Engenharia do Anonimato, desenvolvida para o evento BSides RJ 2026. Conteúdo ministrado junto ao Digital Investigation Village. 
