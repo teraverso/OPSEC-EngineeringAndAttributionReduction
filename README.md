@@ -6,3 +6,5 @@ ___
 
 Palestrante: Edson Ferreira
 https://www.linkedin.com/in/teraverso
+
+⚠️ Aviso de Direitos Autorais: Este conteúdo faz parte de um projeto de livro em desenvolvimento. Todos os direitos de exploração comercial e derivados são reservados ao autor.
